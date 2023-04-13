@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently studying Information Technology at **University of Moratuwa and Sri Lanka Institute of Information Technology**
 
-- 👨‍💻 All of my projects are available at [https://rajithsingh.com/](https://rajithsingh.com/)
-
 - 🌱 I’m currently studying Human Resource Management at **IMBS Green Campus**
+
+- 👨‍💻 All of my projects are available at [https://rajithsingh.com/](https://rajithsingh.com/)
 
 - 📫 How to reach me **rajithsingh2000@gmail.com**
 
